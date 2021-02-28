@@ -1,5 +1,7 @@
 # Про проект Techn0man1ac
 
+[Русский](https://github.com/techn0man1ac/about/blob/main/README.md "Описание проекта на русском языке") | [Українська](https://github.com/techn0man1ac/about/blob/main/ua.md "Опис проекту на українській мові") | [English](https://github.com/techn0man1ac/about/blob/main/eng.md "Project description in English")
+
 Вітаю, мене зовуть Труш Сергій, і ви знаходитесь на сторінці про мій проект в мережі, під назвою ["Techn0man1ac"](https://www.google.com/search?q=Techn0man1ac "гугль")(техноманьяк).
 
 ![Techn0man1ac's logo](https://raw.githubusercontent.com/techn0man1ac/about/main/Img/techn0man1ac.jpg)
