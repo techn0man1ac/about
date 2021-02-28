@@ -1,4 +1,4 @@
-# About Techn0man1ac's project
+# О проекте Techn0man1ac
 
 [Русский](https://github.com/techn0man1ac/about/blob/main/README.md "Описание проекта на русском языке") | [Українська](https://github.com/techn0man1ac/about/blob/main/ua.md "Опис проекту на українській мові") | [English](https://github.com/techn0man1ac/about/blob/main/eng.md "Project description in English")
 
