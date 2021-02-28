@@ -8,7 +8,7 @@ Hi, my name is Sergey Trush and you're on a page of my project in the network, c
 
 # Why "Techn0man1ac"???
 
-I spent less than an hour thinking about what I am in my day. I tried different nicknames and names, but I had to come to one word, or letter combination, preferably in the Latin alphabet, since my project involves going beyond the CIS countries.
+I spent a lot of time thinking about what I am in my day. I tried different nicknames and names, but I had to come to one word, or letter combination, preferably in the Latin alphabet, since my project involves going beyond the CIS countries.
 Since childhood I have been fond of contemplation, well, if you can call it that. I disassembled everything that I could understand at home, looked at how it was arranged, tried to understand how it works ... And now, years later I managed to carry this contemplation of the technological sphere of the Earth, or technium in other words. The meaning that I put into the nickname "Technomaniac" is in two words "technology" and "mania" - a hobby, but almost everywhere I planned to settle, Facebook, YouTube and other other social networks, the nickname "Technoman" was busy, then I tried the classic trick - to replace the letter "o" with the number "0", but everything was also busy, so I came to Techn0man1ac, zeros and ones mean digital space.
 
 # Why I do it all? 
