@@ -1,17 +1,17 @@
-# Про проект Techn0man1ac
+# About Techn0man1ac's project 
 
 [Русский](https://github.com/techn0man1ac/about/blob/main/README.md "Описание проекта на русском языке") | [Українська](https://github.com/techn0man1ac/about/blob/main/ua.md "Опис проекту на українській мові") | [English](https://github.com/techn0man1ac/about/blob/main/eng.md "Project description in English")
 
-Вітаю, мене зовуть Труш Сергій, і ви знаходитесь на сторінці про мій проект в мережі, під назвою ["Techn0man1ac"](https://www.google.com/search?q=Techn0man1ac "гугль")(техноманьяк).
+Hi, my name is Sergey Trush and you're on a page of my project in the network, called ["Techn0man1ac"](https://www.google.com/search?q=Techn0man1ac "гугль")(Technomaniac).
 
 ![Techn0man1ac's logo](https://raw.githubusercontent.com/techn0man1ac/about/main/Img/techn0man1ac.jpg)
 
-# Чому "Techn0man1ac"(техноманьяк)???
+# Why "Techn0man1ac"???
 
-Я чимало часу провів у роздумах, чим я являюсь по своїй суті. Пробовал разные ники и названия, но мне нужно было прийти к какому-то одному слову, или буквосочетанию, желательно на латинице, так как мой проект подразумевает выход за рамки стран СНГ. 
-С детства увлекаюсь созерцанием, ну если это так можно назвать. Разбирал в дома всё, что только разбиралось, смотрел как оно устроенно, пытался понять как работает... И вот, спустя года я сумел пронести это созерцание технологической сферы Земли, или техниума другими словами. Смысл, который я вложил в ник "Техноманьяк" заключается в двух словах "технологии" и "мания" - увлечение, но практически везде, где я планировал поселится, Facebook, YouTube и прочие другие социальные сети, ник "Technoman" был занят, тогда я попробовал классический трюк - заменить букву "o" на цифру "0", но тоже всё было занято, так я и пришёл к Techn0man1ac, нолики и единички означают цифровое пространство.
+I spent less than an hour thinking about what I am in my day. I tried different nicknames and names, but I had to come to one word, or letter combination, preferably in the Latin alphabet, since my project involves going beyond the CIS countries.
+Since childhood I have been fond of contemplation, well, if you can call it that. I disassembled everything that I could understand at home, looked at how it was arranged, tried to understand how it works ... And now, years later I managed to carry this contemplation of the technological sphere of the Earth, or technium in other words. The meaning that I put into the nickname "Technomaniac" is in two words "technology" and "mania" - a hobby, but almost everywhere I planned to settle, Facebook, YouTube and other other social networks, the nickname "Technoman" was busy, then I tried the classic trick - to replace the letter "o" with the number "0", but everything was also busy, so I came to Techn0man1ac, zeros and ones mean digital space.
 
-# Зачем это всё? 
+# Why I do it all? 
 
-Много раз себе спрашивал, пытался уходить, ударять профили в социальных сетях, но всё равно возвращаюсь. 
-Только недавно я понял, у моего проекта должна быть миссия, иначе я попросту распыляюсь, и я определился с миссией - глобальное просветление общества под технологической обёрткой. Именно ради оэтого я и вкладываю тонны времени, терабайты данных.
+I asked myself many times, tried to leave, hit profiles on social networks, but I still come back.
+Only recently I realized that my project should have a mission, otherwise I will simply get scattered, and I have decided on a mission - the global enlightenment of society under a technological wrapper. That’s why I’m investing tons of time, terabytes of data.
