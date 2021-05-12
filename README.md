@@ -3,8 +3,10 @@
 Данная страница доступна на трёх языках - [Русский](https://github.com/techn0man1ac/about/blob/main/README.md "Описание проекта на русском языке") | [Українська](https://github.com/techn0man1ac/about/blob/main/ua.md "Опис проекту на українській мові") | [English](https://github.com/techn0man1ac/about/blob/main/eng.md "Project description in english").
 
 ## Ссылки на профили в соцсетях:
+В многих соцсетях я постарался создать страничку, эдакой полот технологий, техники и творчества. Вот ссылки на самые популярные(по моему мнению) соцсети:
+
 YouTube:
-- YouTube [https://www.youtube.com/channel/UCftMO-yR5xfDLeWqZzsiSzQ](https://www.youtube.com/channel/UCftMO-yR5xfDLeWqZzsiSzQ "Основной YouTube канал")
+- Основной YouTube канал [https://www.youtube.com/channel/UCftMO-yR5xfDLeWqZzsiSzQ](https://www.youtube.com/channel/UCftMO-yR5xfDLeWqZzsiSzQ "Основной YouTube канал")
 - YouTube live [https://www.youtube.com/channel/UCdPf_6D6EsjeJWb-a3D-91Q](https://www.youtube.com/channel/UCdPf_6D6EsjeJWb-a3D-91Q "Лайв канал")
 
 Twitch:
@@ -17,10 +19,10 @@ TikTok:
 - Канал на TikTok [https://www.tiktok.com/@techn0man1ac](https://www.tiktok.com/@techn0man1ac "Канал на TikTok")
 
 Instructables:
-- Профиль на Инстрактэйбл [https://www.instructables.com/member/techn0man1ac/](https://www.instructables.com/member/techn0man1ac/ "Techn0man1ac on Instructables")
+- Профиль на Инстрактэйблс [https://www.instructables.com/member/techn0man1ac/](https://www.instructables.com/member/techn0man1ac/ "Techn0man1ac on Instructables")
 
 Хабр:
-- Профиль на Хабре  [https://habr.com/ru/users/hwman/](https://habr.com/ru/users/hwman/ "Techn0man1ac на Хабре")
+- Профиль на Хабре [https://habr.com/ru/users/hwman/](https://habr.com/ru/users/hwman/ "Techn0man1ac на Хабре")
 
 Пикабу:
 - Профиль на Пикабу [https://pikabu.ru/@techn0man1ac ](https://pikabu.ru/@techn0man1ac  "Techn0man1ac на Пикабу")
