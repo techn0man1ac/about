@@ -13,6 +13,9 @@ Twitch:
 Vimeo:
 - Профиль на Вимео [https://vimeo.com/techn0man1ac](https://vimeo.com/techn0man1ac "Techn0man1ac on Vimeo")
 
+TikTok:
+- Канал на TikTok [https://www.tiktok.com/@techn0man1ac](https://www.tiktok.com/@techn0man1ac "Канал на TikTok")
+
 Instructables:
 - Профиль на Инстрактэйбл [https://www.instructables.com/member/techn0man1ac/](https://www.instructables.com/member/techn0man1ac/ "Techn0man1ac on Instructables")
 
@@ -26,12 +29,18 @@ Instructables:
 - Техноманьячная группа [https://vk.com/techn0man1ac_tech](https://vk.com/techn0man1ac_tech "Группа на ВК")
 - Профиль автора [https://vk.com/techn0maniac](https://vk.com/techn0maniac "Сергей Труш")
 
+LinkedIn:
+- LinkedIn - Сергей Труш [https://www.linkedin.com/in/techn0man1ac/](https://www.linkedin.com/in/techn0man1ac/ "LinkedIn - Сергей Труш")
+
 Facebook:
 - Техноманьячная группа на FB [https://www.facebook.com/groups/techn0man1actech](https://www.facebook.com/groups/techn0man1actech "Group on Facebook")
 - Профиль автора [https://www.facebook.com/techn0man1ac](https://www.facebook.com/techn0man1ac "Serhii Trush")
 
 Twitter:
 - Techn0man1ac на Твиттере [https://twitter.com/techn0man1ac](https://twitter.com/techn0man1ac "Techn0man1ac on Twitter")
+
+Instagram:
+- Профиль на Instagram [https://www.instagram.com/techn0man1ac/](https://www.instagram.com/techn0man1ac/ "Профиль на Instagram")
 
 Pinterest:
 - Pinterest на Pinterest [https://www.pinterest.ru/techn0man1ac/](https://www.pinterest.ru/techn0man1ac/ "Techn0man1ac on Pinterest")
