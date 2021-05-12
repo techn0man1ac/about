@@ -3,7 +3,32 @@
 Данная страница доступна на трёх языках - [Русский](https://github.com/techn0man1ac/about/blob/main/README.md "Описание проекта на русском языке") | [Українська](https://github.com/techn0man1ac/about/blob/main/ua.md "Опис проекту на українській мові") | [English](https://github.com/techn0man1ac/about/blob/main/eng.md "Project description in english").
 
 ## Ссылки на профили в соцсетях:
+YouTube:
+- YouTube [https://www.youtube.com/channel/UCftMO-yR5xfDLeWqZzsiSzQ](https://www.youtube.com/channel/UCftMO-yR5xfDLeWqZzsiSzQ "Основной YouTube канал")
+- YouTube live [https://www.youtube.com/channel/UCdPf_6D6EsjeJWb-a3D-91Q](https://www.youtube.com/channel/UCdPf_6D6EsjeJWb-a3D-91Q "Лайв канал")
 
+Twitch:
+- Techn0man1ac channel [https://www.twitch.tv/techn0man1ac](https://www.twitch.tv/techn0man1ac "Techn0man1ac channel")
+
+Vimeo:
+- Vimeo profile [https://vimeo.com/techn0man1ac](https://vimeo.com/techn0man1ac "Techn0man1ac on Vimeo")
+
+Хабр:
+- Профиль на Хабре  [https://habr.com/ru/users/hwman/](https://habr.com/ru/users/hwman/ "Techn0man1ac на Хабре")
+
+Пикабу:
+- Techn0man1ac на Пикабу [https://pikabu.ru/@techn0man1ac ](https://pikabu.ru/@techn0man1ac  "Techn0man1ac на Пикабу")
+
+ВКонтакте:
+- Группа [https://vk.com/techn0man1ac_tech](https://vk.com/techn0man1ac_tech "Группа на ВК")
+- Профиль автора [https://vk.com/techn0maniac](https://vk.com/techn0maniac "Сергей Труш")
+
+Facebook:
+- Group [https://www.facebook.com/groups/techn0man1actech](https://www.facebook.com/groups/techn0man1actech "Group on Facebook")
+- Author profile [https://www.facebook.com/techn0man1ac](https://www.facebook.com/techn0man1ac "Serhii Trush")
+
+Twitter:
+- Techn0man1ac profile [https://twitter.com/techn0man1ac](https://twitter.com/techn0man1ac "Techn0man1ac on Twitter")
 
 Приветствую, меня зовут Труш Сергей, и Вы находитесь на странице об моем проекте в сети под названием ["Techn0man1ac"](https://www.google.com/search?q=Techn0man1ac "гугль")(техноманьяк).
 
