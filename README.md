@@ -31,6 +31,9 @@ Instructables:
 - Техноманьячная группа [https://vk.com/techn0man1ac_tech](https://vk.com/techn0man1ac_tech "Группа на ВК")
 - Профиль автора [https://vk.com/techn0maniac](https://vk.com/techn0maniac "Сергей Труш")
 
+Яндекс Дзен:
+- Канал на Яндекс Дзене [https://zen.yandex.ru/id/609bdf1e980b4141081e1aa7](https://zen.yandex.ru/id/609bdf1e980b4141081e1aa7 "Сергей Труш")
+
 LinkedIn:
 - LinkedIn - Сергей Труш [https://www.linkedin.com/in/techn0man1ac/](https://www.linkedin.com/in/techn0man1ac/ "LinkedIn - Сергей Труш")
 
