@@ -3,7 +3,7 @@
 Данная страница доступна на трёх языках - [Русский](https://github.com/techn0man1ac/about/blob/main/README.md "Описание проекта на русском языке") | [Українська](https://github.com/techn0man1ac/about/blob/main/ua.md "Опис проекту на українській мові") | [English](https://github.com/techn0man1ac/about/blob/main/eng.md "Project description in english").
 
 ## Ссылки на профили в соцсетях:
-В многих соцсетях я постарался создать страничку, эдакой полот технологий, техники и творчества. Вот ссылки на самые популярные(по моему мнению) соцсети:
+В многих платформах я постарался создать страничку, эдакой полот технологий, техники и творчества. Вот ссылки на самые популярные(по моему мнению) соцсети:
 
 YouTube:
 - Основной YouTube канал [https://www.youtube.com/channel/UCftMO-yR5xfDLeWqZzsiSzQ](https://www.youtube.com/channel/UCftMO-yR5xfDLeWqZzsiSzQ "Основной YouTube канал")
