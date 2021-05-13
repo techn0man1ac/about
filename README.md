@@ -31,6 +31,9 @@ Instructables:
 Хабр:
 - Профиль на Хабре [https://habr.com/ru/users/hwman/](https://habr.com/ru/users/hwman/ "Techn0man1ac на Хабре")
 
+MYSKU.ru:
+- Страничка на MYSKU  [https://mysku.ru/profile/MRPodelkinS](https://mysku.ru/profile/MRPodelkinS "Страничка на Муське")
+
 Пикабу:
 - Профиль на Пикабу [https://pikabu.ru/@techn0man1ac ](https://pikabu.ru/@techn0man1ac  "Techn0man1ac на Пикабу")
 
@@ -66,8 +69,6 @@ Flickr:
 Soundcloud:
 - Профиль на Soundcloud [https://soundcloud.com/techn0man1ac](https://soundcloud.com/techn0man1ac "Techn0man1ac on Soundcloud")
 
-MYSKU.ru:
-- Страничка на MYSKU  [https://mysku.ru/profile/MRPodelkinS](https://mysku.ru/profile/MRPodelkinS "Страничка на Муське")
 
 # Почему "Techn0man1ac"(техноманьяк)???
 
