@@ -1,6 +1,13 @@
+![Описание проекта на русском языке](https://raw.githubusercontent.com/techn0man1ac/about/main/Img/Russia.png) [Русский](https://github.com/techn0man1ac/about/blob/main/README.md "Описание проекта на русском языке")   |  ![Опис проекту на українській мові](https://raw.githubusercontent.com/techn0man1ac/about/main/Img/Ukraine.png) [Українська](https://github.com/techn0man1ac/about/blob/main/ua.md "Опис проекту на українській мові")  |  ![Project description in english](https://raw.githubusercontent.com/techn0man1ac/about/main/Img/United-Kingdom.png) [English](https://github.com/techn0man1ac/about/blob/main/eng.md "Project description in english")
+
 # О проекте Techn0man1ac
 
-Данная страница доступна на трёх языках - [Русский](https://github.com/techn0man1ac/about/blob/main/README.md "Описание проекта на русском языке") | [Українська](https://github.com/techn0man1ac/about/blob/main/ua.md "Опис проекту на українській мові") | [English](https://github.com/techn0man1ac/about/blob/main/eng.md "Project description in english").
+![Techn0man1ac's avatar](https://raw.githubusercontent.com/techn0man1ac/about/main/Img/techn0man1ac.jpg)
+
+Приветствую, меня зовут Труш Сергей, и Вы находитесь на странице о моем проекте в сети под названием ["Techn0man1ac"](https://www.google.com/search?q=Techn0man1ac "гугль")(техноманьяк) - в первую очередь три "Т":
+- Технологии;
+- Техника;
+- Творчество.
 
 ## Ссылки на профили в соцсетях:
 В многих платформах я постарался создать страничку, эдакой полот технологий, техники и творчества. Вот ссылки на самые популярные(по моему мнению) соцсети:
@@ -61,10 +68,6 @@ Soundcloud:
 
 MYSKU.ru:
 - Страничка на MYSKU  [https://mysku.ru/profile/MRPodelkinS](https://mysku.ru/profile/MRPodelkinS "Страничка на Муське")
-
-Приветствую, меня зовут Труш Сергей, и Вы находитесь на странице об моем проекте в сети под названием ["Techn0man1ac"](https://www.google.com/search?q=Techn0man1ac "гугль")(техноманьяк).
-
-![Techn0man1ac's avatar](https://raw.githubusercontent.com/techn0man1ac/about/main/Img/techn0man1ac.jpg)
 
 # Почему "Techn0man1ac"(техноманьяк)???
 
