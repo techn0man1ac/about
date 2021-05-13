@@ -56,6 +56,12 @@ Imgur:
 Flickr:
 - Страничка на Flickr [https://www.flickr.com/photos/151504168@N03/](https://www.flickr.com/photos/151504168@N03/ "Techn0man1ac on Flickr")
 
+Soundcloud:
+- Профиль на Soundcloud [https://soundcloud.com/techn0man1ac](https://soundcloud.com/techn0man1ac "Techn0man1ac on Soundcloud")
+
+MYSKU.ru:
+- Страничка на MYSKU  [https://mysku.ru/profile/MRPodelkinS](https://mysku.ru/profile/MRPodelkinS "Страничка на Муське")
+
 Приветствую, меня зовут Труш Сергей, и Вы находитесь на странице об моем проекте в сети под названием ["Techn0man1ac"](https://www.google.com/search?q=Techn0man1ac "гугль")(техноманьяк).
 
 ![Techn0man1ac's logo](https://raw.githubusercontent.com/techn0man1ac/about/main/Img/techn0man1ac.jpg)
