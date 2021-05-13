@@ -1,6 +1,7 @@
-# About Techn0man1ac's project 
+[![Описание проекта на русском языке](https://raw.githubusercontent.com/techn0man1ac/about/main/Img/Russia.png)](https://github.com/techn0man1ac/about) [Русский](https://github.com/techn0man1ac/about "Описание проекта на русском языке")  |  [![Опис проекту на українській мові](https://raw.githubusercontent.com/techn0man1ac/about/main/Img/Ukraine.png)](https://github.com/techn0man1ac/about/blob/main/ua.md) [Українська](https://github.com/techn0man1ac/about/blob/main/ua.md "Опис проекту на українській мові")  |  [![Project description in english](https://raw.githubusercontent.com/techn0man1ac/about/main/Img/United-Kingdom.png)](https://github.com/techn0man1ac/about/blob/main/eng.md) [English](https://github.com/techn0man1ac/about/blob/main/eng.md "Project description in english")
 
-[Русский](https://github.com/techn0man1ac/about/blob/main/README.md "Описание проекта на русском языке") | [Українська](https://github.com/techn0man1ac/about/blob/main/ua.md "Опис проекту на українській мові") | [English](https://github.com/techn0man1ac/about/blob/main/eng.md "Project description in English")
+
+# About Techn0man1ac's project 
 
 Hi, my name is Sergey Trush and you're on a page of my project in the network, called ["Techn0man1ac"](https://www.google.com/search?q=Techn0man1ac "гугль")(Technomaniac).
 
